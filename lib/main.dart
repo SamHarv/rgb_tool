@@ -30,6 +30,7 @@ class _ColourPageState extends State<ColourPage> {
     return Scaffold(
       backgroundColor: Color.fromARGB(255, r, g, b),
       appBar: AppBar(
+        centerTitle: true,
         backgroundColor: Colors.transparent,
         title: Text('RGB Colour Tool',
             style: TextStyle(color: invertedColour, fontSize: 32)),
