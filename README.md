@@ -1,16 +1,7 @@
-# colours
+# RGB Colour Tool
 
-A new Flutter project.
+A dynamic web app which lets you play with values for red, green, and blue to generate a colour for your reference.
+Hex code for the colour is also generated.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Supported Platforms
+- [Web](https://rgb-tool.web.app/)

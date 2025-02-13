@@ -6,7 +6,10 @@ class Colours extends StatelessWidget {
   const Colours({super.key});
 
   @override
-  Widget build(BuildContext context) => MaterialApp(home: const ColourPage());
+  Widget build(BuildContext context) => MaterialApp(
+        home: const ColourPage(),
+        title: "RGB Colour Tool",
+      );
 }
 
 class ColourPage extends StatefulWidget {
