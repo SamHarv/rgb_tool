@@ -1,0 +1,2 @@
+/Users/samharvey/development/flutter_apps/colours/android/app/.cxx/RelWithDebInfo/57261h48/x86_64/CMakeFiles/edit_cache.dir
+/Users/samharvey/development/flutter_apps/colours/android/app/.cxx/RelWithDebInfo/57261h48/x86_64/CMakeFiles/rebuild_cache.dir
