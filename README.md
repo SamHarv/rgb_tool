@@ -4,4 +4,6 @@ A dynamic web app which lets you play with values for red, green, and blue to ge
 Hex code for the colour is also generated.
 
 ## Supported Platforms
+- iOS (Coming soon)
+- Android (Coming soon)
 - [Web](https://rgb-tool.web.app/)

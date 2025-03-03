@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'views/colour_view.dart';
+import 'ui/views/colour_view.dart';
 
 void main() => runApp(const Colours());
 
