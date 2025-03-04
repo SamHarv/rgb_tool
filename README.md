@@ -5,5 +5,5 @@ Hex code for the colour is also generated.
 
 ## Supported Platforms
 - iOS (Coming soon)
-- Android (Coming soon)
+- [Android](https://play.google.com/store/apps/details?id=com.o2tech.colours)
 - [Web](https://rgb-tool.web.app/)
