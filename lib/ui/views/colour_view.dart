@@ -1,8 +1,10 @@
 import 'package:colours/config/constants.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../logic/rgb_tool_logic.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class ColourView extends StatefulWidget {
   /// UI to display the RGB colour tool
@@ -184,6 +186,12 @@ class _ColourViewState extends State<ColourView> {
                 ),
 
                 SizedBox(height: 24),
+                // Display the ad if not web version
+                kIsWeb
+                    ? SizedBox()
+                    : Align(
+                        alignment: Alignment.bottomCenter,
+                        child: BannerAdWidget()),
               ],
             ),
           ],
